@@ -1,8 +1,9 @@
-###Automated CI/CD Pipeline with Ansible and Docker###
+# Automated CI/CD Pipeline with Ansible and Docker
 
-Accelerated deployment velocity by 40% and reduced environment drift to 0% by architecting an automated CI/CD pipeline using Jenkins, Terraform, and Ansible to orchestrate Docker containers, while embedding SonarQube/Snyk gates to slash production vulnerabilities by 35%.
+> **Accelerated deployment velocity by 40%** and reduced environment drift to **0%** by architecting an automated CI/CD pipeline using **Jenkins**, **Terraform**, and **Ansible** to orchestrate **Docker** containers, while embedding **SonarQube/Snyk** gates to slash production vulnerabilities by **35%**.
 
-Tools/Technologies: Ansible, Docker, Jenkins, Git, Python.
+
+Tools/Technologies:
 
 ### 1. **Terraform**
 
