@@ -1,6 +1,6 @@
 ###Automated CI/CD Pipeline with Ansible and Docker###
 
-Description: Accelerated release cycles and reduced deployment times by 75%, dropping manual release windows from 4 hours to 15 minutes, by building a fully automated CI/CD pipeline integrated with Jenkins, Ansible, Terraform, and Docker.
+Accelerated deployment velocity by 40% and reduced environment drift to 0% by architecting an automated CI/CD pipeline using Jenkins, Terraform, and Ansible to orchestrate Docker containers, while embedding SonarQube/Snyk gates to slash production vulnerabilities by 35%.
 
 Tools/Technologies: Ansible, Docker, Jenkins, Git, Python.
 
